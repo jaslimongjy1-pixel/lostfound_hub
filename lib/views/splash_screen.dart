@@ -62,7 +62,7 @@ class _SplashScreenState extends State<SplashScreen> {
             FlutterLogo(size: 100),
             SizedBox(height: 20),
             Text(
-              "LostFoundHub",
+              "Lost&Found Hub",
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
           ],
